@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Ii6QhAw118cYJzn1tdtkUEK6SxL73oV9OK2KrlyOCK7yHDP/On9oaJTrD6utSvyj0uWA0uDztwZJT2eRuq/rLw==",
+  "dgSpecHash": "OW/hqudiHwJ/Ap4uKrjrbyqCU1WrI4ETNKiADUiccrxz9bBTJbTO6ybokiTyxAsbpOhZz7z8ppMEQtmNak212Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\MajaKookie\\Desktop\\hello\\zadanie\\LegacyAppConsumer\\LegacyAppConsumer.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\MajaKookie\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\MajaKookie\\.nuget\\packages\\xunit.extensibility.core\\2.8.1\\xunit.extensibility.core.2.8.1.nupkg.sha512"
+  ],
   "logs": []
 }

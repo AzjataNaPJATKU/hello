@@ -55,3 +55,5 @@ C:\Users\MajaKookie\Desktop\hello\zadanie\LegacyAppConsumer\obj\Debug\net8.0\ref
 C:\Users\MajaKookie\Desktop\hello\zadanie\LegacyAppConsumer\obj\Debug\net8.0\LegacyAppConsumer.pdb
 C:\Users\MajaKookie\Desktop\hello\zadanie\LegacyAppConsumer\obj\Debug\net8.0\LegacyAppConsumer.genruntimeconfig.cache
 C:\Users\MajaKookie\Desktop\hello\zadanie\LegacyAppConsumer\obj\Debug\net8.0\ref\LegacyAppConsumer.dll
+C:\Users\MajaKookie\Desktop\hello\zadanie\LegacyAppConsumer\bin\Debug\net8.0\xunit.abstractions.dll
+C:\Users\MajaKookie\Desktop\hello\zadanie\LegacyAppConsumer\bin\Debug\net8.0\xunit.core.dll

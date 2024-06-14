@@ -1,4 +1,5 @@
 namespace LegacyApp.Tests;
+using Xunit;
 
 public class UserServiceTests
 {
